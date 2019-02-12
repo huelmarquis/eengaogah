@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peejei.jilltoloza.com/sitemap.xml
